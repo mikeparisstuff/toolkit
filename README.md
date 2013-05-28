@@ -11,8 +11,8 @@ If you are ever dealing with server mainenance, local-development boxes, or just
 
    To Install
 ==================
-1) Clone this repo to your home directory on your linux or other unix based machine.. If you run windows may god help you\n
-2) cd into the toolkit directory\n
-3) Run ./make_links.sh
-  - Note: You may have to change file permissions on make_links.sh i.e. 'chmod 755 make_links.sh'\n
-4) Enjoy
+- Clone this repo to your home directory on your linux or other unix based machine.. If you run windows may god help you
+- cd into the toolkit directory
+- Run ./make_links.sh
+   -- Note: You may have to change file permissions on make_links.sh i.e. 'chmod 755 make_links.sh'
+- Enjoy
