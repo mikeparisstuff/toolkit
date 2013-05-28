@@ -1,0 +1,8 @@
+[user]
+	name = Michael Paris
+	email = mlparis92@gmail.com
+[color]
+    diff = auto
+    status = auto
+    branch = auto
+    interactive = auto
