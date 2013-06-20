@@ -1,3 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_cnt =3
 let g:netrw_dirhist_1='/Users/MichaelParis/.ssh'
+let g:netrw_dirhist_2='/Users/MichaelParis/sites/tjsweb/app/View/PrivateMessages'
+let g:netrw_dirhist_3='/Users/MichaelParis/Documents/CS3102/Workspace'
