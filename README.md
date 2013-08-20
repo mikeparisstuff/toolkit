@@ -7,7 +7,7 @@ A box of tools for jumpstarting VM's.
 A little bit of why?
 ====================
 
-If you are ever dealing with server mainenance, virtual boxes for local development, or just enjoy ssh you know how much of a pain it can be to have to reconfigure your development environment so that you have all your precious keystrokes, shortcuts, and plugins that make you feel all warm inside.  While working at my last internship, I was inspired to automate the process and its been saving me a lot of headaches ever since.
+To relieve the pain of spinnin up new vm's and other machines.  Never have to reconfigure a development environment for all your precious keystrokes and shortcuts that make you feel all warm inside again.  While working at my last internship, I was inspired to automate the process and its been saving me a lot of headaches ever since.
 
 <h1>To Install</h1> 
 - Clone this repo to your home directory
