@@ -1,7 +1,7 @@
 toolkit
 =======
 
-A box of tools for jumpstarting VM's and foreign machines.
+A box of tools for jumpstarting VM's.
 
 
 A little bit of why?
