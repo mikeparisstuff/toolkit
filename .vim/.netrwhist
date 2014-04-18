@@ -1,10 +1,2 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =8
-let g:netrw_dirhist_1='/Users/MichaelParis/sites/michaelparis_us/.git'
-let g:netrw_dirhist_2='/Users/MichaelParis/willowtree/mixhibit/Flash/src'
-let g:netrw_dirhist_3='/Users/MichaelParis/willowtree/mixhibit/Flash/images'
-let g:netrw_dirhist_4='/Users/MichaelParis/sites/mysite/views'
-let g:netrw_dirhist_5='/Users/MichaelParis/sites/vagrantProjects'
-let g:netrw_dirhist_6='/Users/MichaelParis/uva/SecondYear/CS2150/Test2Review'
-let g:netrw_dirhist_7='/Users/MichaelParis/uva/SecondYear/CS2150/Test1Review'
-let g:netrw_dirhist_8='/Users/MichaelParis/uva/ThirdYear/CS4102/algorithm_practice'
+let g:netrw_dirhist_cnt =0
