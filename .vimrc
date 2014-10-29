@@ -2,13 +2,13 @@ set nocompatible
 filetype off
 
 " Set the runtime path to include Vundle and initialize
-set rtp+=~/.vim/bundle/vundle/
-call vundle#rc()
+"set rtp+=~/.vim/bundle/vundle/
+"call vundle#rc()
 
 "Let vundle manage Vundle, required
-Plugin 'gmarik/vundle'
+"Plugin 'gmarik/vundle'
 
-Plugin 'matchparenpp'
+"Plugin 'matchparenpp'
 
 filetype plugin indent on "required
 
